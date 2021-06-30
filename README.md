@@ -1,3 +1,4 @@
 - gatling-boilerplate
----------------------------------
-- author: Subrato Sarkar
+  ------------------------------------
+- Author: Subrato Sarkar
+- Programmming language: Scala
