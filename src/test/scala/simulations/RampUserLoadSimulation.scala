@@ -29,6 +29,6 @@ class RampUserLoadSimulation extends Simulation {
   setUp(scn.inject(nothingFor(5),
     atOnceUsers(5),
     constantUsersPerSec(10) during(10 seconds),
-    rampUsersPerSec(1) to (5) during(20 seconds)
+    rampUsersPerSec(1) to 5 during(20 seconds)
   ).protocols(httpConf))
 }
