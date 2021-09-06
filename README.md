@@ -5,4 +5,5 @@
 - Repo:  https://github.com/subrato29/gatling-boilerplate.git
 - Build tool: Maven
 - IDE used: Intellij
+- How to run: Run 'Engine' file
 
