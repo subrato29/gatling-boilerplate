@@ -6,4 +6,8 @@
 - Build tool: Maven
 - IDE used: Intellij
 - How to run: Run 'Engine' file
+- The scenario used to have 3 parts
+  - HTTP Configuration
+  - Scenario Definition
+  - Load Scenario
 
